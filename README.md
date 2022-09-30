@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dani0rednuht
+- 👀 I’m interested in python, c++, arduino
+- 🌱 I’m currently learning python3
